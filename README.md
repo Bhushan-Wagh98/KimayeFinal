@@ -34,6 +34,7 @@ This is a team project, built by us in the Construct Week - Unit IV at Masai Sch
 - HTML
 - CSS
 - Javascript - (DOM Manipulation, Local Storage)
+- React.JS
 
 ## Screenshots :
 
