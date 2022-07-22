@@ -1,6 +1,6 @@
 # Kimaye clone
 
-Rodan & Fields, LLC, known as Rodan + Fields or R+F, is an American manufacturer and multi-level marketing company specializing in skincare products. Katie Rodan and Kathy A. Fields, creators of Proactiv, started the Rodan + Fields brand in 2002 and sold it a year later. They relaunched the brand in 2007 as a multi-level marketing firm.
+Grower's of India's finest fruits. Kimaye is a promise of consistently delivering the safest and superior quality fruits. India's first brand to retail fresh fruits in USA. Kimaye aims to empower its farmers by delivering their produce to 35 countries around the globe. Currently available in Mumbai and coming to other cities soon!
 
 # About this project: 🙌
 
@@ -39,41 +39,41 @@ This is a team project, built by us in the Construct Week - Unit IV at Masai Sch
 
 **Home Page**
 
-![HomePage](https://user-images.githubusercontent.com/56001279/155868693-32562dc5-7a38-457b-ad46-57a7ee7e99b1.png)
+<!-- ![HomePage](https://user-images.githubusercontent.com/56001279/155868693-32562dc5-7a38-457b-ad46-57a7ee7e99b1.png) -->
 
 **Sign-in DropDown**
 
-![Sign in](https://user-images.githubusercontent.com/56001279/155868708-57d5746d-ba55-435d-978b-2df947e17b61.png)
+<!-- ![Sign in](https://user-images.githubusercontent.com/56001279/155868708-57d5746d-ba55-435d-978b-2df947e17b61.png) -->
 
 **Search Page**
 
-![Search](https://user-images.githubusercontent.com/56001279/155868721-5b38d6f7-4781-4640-a574-aa5e8871ab76.png)
+<!-- ![Search](https://user-images.githubusercontent.com/56001279/155868721-5b38d6f7-4781-4640-a574-aa5e8871ab76.png) -->
 
 **Cart Bag**
 
-![Cart](https://user-images.githubusercontent.com/56001279/155868732-939f33b0-fbae-41bc-af19-8e420b64d865.png)
+<!-- ![Cart](https://user-images.githubusercontent.com/56001279/155868732-939f33b0-fbae-41bc-af19-8e420b64d865.png) -->
 
 **Footer**
 
-![Footer](https://user-images.githubusercontent.com/56001279/155868742-a400ee5a-9d71-4dcc-a4ea-04f76cd6fb21.png)
+<!-- ![Footer](https://user-images.githubusercontent.com/56001279/155868742-a400ee5a-9d71-4dcc-a4ea-04f76cd6fb21.png) -->
 
 **All Products Page**
 
-![All Products Page](https://user-images.githubusercontent.com/56001279/155868754-4b405e49-1f02-4a7b-9e34-b729718e4e75.png)
+<!-- ![All Products Page](https://user-images.githubusercontent.com/56001279/155868754-4b405e49-1f02-4a7b-9e34-b729718e4e75.png) -->
 
 **Regimens Page**
 
-![Regimens](https://user-images.githubusercontent.com/56001279/155868767-21c9e962-74d4-4f8c-9357-3d2f30386361.png)
+<!-- ![Regimens](https://user-images.githubusercontent.com/56001279/155868767-21c9e962-74d4-4f8c-9357-3d2f30386361.png) -->
 
 **Checkout Page**
 
-![Checkout](https://user-images.githubusercontent.com/56001279/155868779-c6ae44ec-8e64-47d6-b2d3-b485c2b98e9f.png)
+<!-- ![Checkout](https://user-images.githubusercontent.com/56001279/155868779-c6ae44ec-8e64-47d6-b2d3-b485c2b98e9f.png) -->
 
 **Payment Page**
 
-![Payment](https://user-images.githubusercontent.com/56001279/155868788-4a165325-3499-4568-9cc3-4d7760234dcc.png)
+<!-- ![Payment](https://user-images.githubusercontent.com/56001279/155868788-4a165325-3499-4568-9cc3-4d7760234dcc.png) -->
 
-![order placed](https://user-images.githubusercontent.com/56001279/155868801-7b866ed3-f50c-49a1-b788-a2f8bfa42fa4.png)
+<!-- ![order placed](https://user-images.githubusercontent.com/56001279/155868801-7b866ed3-f50c-49a1-b788-a2f8bfa42fa4.png) -->
 
 ## Roles & Responsibilities :-
 
